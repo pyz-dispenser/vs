@@ -11,11 +11,6 @@ Non-goals:
 * Manage dependencies or define lock formats
 
 Integrations include:
-* Generic pyproject.toml
-* Poetry
-* pip-tools
-* pipenv
-* uv
-* pyenv
-* brew, apt, dnfs, pacman
-* Windows
+* Dependency tools: Generic pyproject.toml, Poetry, pip-tools, pipenv, uv
+* Python installation: uv, pyenv, brew, apt, dnfs, pacman, Windows, vs
+* Project commands: just
